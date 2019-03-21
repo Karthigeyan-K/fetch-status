@@ -1,9 +1,9 @@
 {
-  "posts": {
+  "posts": [
     "incident": "amber",
     "flight": "green",
     "production": "red"
-  }
+  ]
 }
 /*
 
