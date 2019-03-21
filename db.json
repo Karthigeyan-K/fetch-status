@@ -3,7 +3,5 @@
 	"efficient": "amber",
 	"ticket": "red",
 	"incident": "red",
-	"channels": "amber",
-	"cmdcenter": "green",
-	"dotcom": "green"
+	"channels": "amber"
 }
