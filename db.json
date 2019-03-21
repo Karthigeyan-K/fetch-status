@@ -1,16 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Incident", "status": "amber" },
-    { "id": 2, "title": "Flight", "status": "green" },
-    { "id": 3, "title": "Production", "status": "red" }
-  ],
-  "incident": {
-    "status": "amber"
-  },
-  "flight": {
-    "status": "green"
-  },
-  "production": {
-    "status": "red"
+  "posts": {
+    "incident": "amber",
+    "flight": "green"
+    "production": "red"
   }
 }
