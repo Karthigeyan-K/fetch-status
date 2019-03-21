@@ -4,7 +4,13 @@
     { "id": 2, "title": "Flight", "status": "green" },
     { "id": 3, "title": "Production", "status": "red" }
   ],
-  "profile": {
-    "name": "typicode"
+  "incident": {
+    "status": "amber"
+  },
+  "flight": {
+    "status": "green"
+  },
+  "production": {
+    "status": "red"
   }
 }
