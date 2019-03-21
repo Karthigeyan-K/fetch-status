@@ -1,7 +1,7 @@
 {
   "posts": {
     "incident": "amber",
-    "flight": "green"
+    "flight": "green",
     "production": "red"
   }
 }
