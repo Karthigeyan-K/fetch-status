@@ -2,7 +2,10 @@
     "incident": "amber",
     "flight": "green",
     "production": "red"
-}
+},
+  "profile": {
+    "name": "typicode"
+  }
 /*
 
   "posts": [
