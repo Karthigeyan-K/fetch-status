@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "servoStatus1": "red",
+      "servoStatus1": "amber",
       "servoStatus2": "red",
       "servoStatus3": "amber",
       "servoStatus4": "amber",
