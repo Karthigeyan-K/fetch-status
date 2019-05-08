@@ -3,7 +3,7 @@
     {
       "servoStatus1": "amber",
       "servoStatus2": "red",
-      "servoStatus3": "amber",
+      "servoStatus3": "green",
       "servoStatus4": "amber",
       "servoStatus5": "red",
       "servoStatus6": "green"
